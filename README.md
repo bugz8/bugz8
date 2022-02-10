@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bugz8
+- 👀 I’m a Web Developer.
+- 🌱 I’m currently practising front-web.
+- 💞️ I’m looking to have more experience.
+- 📫 Contact: amagdi995@gmail.com
