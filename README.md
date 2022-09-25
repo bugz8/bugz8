@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bugz8
 - 👀 A Front-end Web Developer.
 - 🌱 Currently practising Fullstack-Web.
-- 💞️ I’m looking to have more experience.
+- 💞️ I’m looking for a job to have more experience.
 - 📫 Contact: amagdi995@gmail.com
 - 📫 Linkedin : https://www.linkedin.com/in/amagdy95/
