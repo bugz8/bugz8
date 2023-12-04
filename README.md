@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bugz8
-- 👀 A Front-end Web Developer.
-- 🌱 Currently practising Fullstack-Web.
-- 💞️ I’m looking for a job to have more experience.
-- 📫 Contact: amagdi995@gmail.com
-- 📫 Linkedin : https://www.linkedin.com/in/amagdy95/
+- 👋 Hi, I’m Ahmed Magdy (@bugz8)
+- 👀 Software Engineer & Web Developer.
+- 🌱 Currently doing Fullstack-Web.
+- 💞️ Contact: amagdi995@gmail.com
+- 📫 Linkedin : https://www.linkedin.com/in/amagdy95
