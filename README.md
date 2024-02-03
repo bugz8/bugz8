@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Ahmed Magdy (@bugz8)
-- 👀 Software Engineer & Web Developer.
-- 🌱 Currently doing Fullstack-Web.
+- 👋 Hey, I’m Ahmed Magdy (@bugz8) Full-Stack Web Developer.
 - 💞️ Contact: amagdi995@gmail.com
 - 📫 Linkedin : https://www.linkedin.com/in/amagdy95
